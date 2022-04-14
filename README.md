@@ -9,7 +9,9 @@ The Kaggle link to the dataset is : https://www.kaggle.com/competitions/h1b-visa
 ## Tech Stack used
 
 Python : as the primary programming language
+
 Jupyter Notebook : as the platform to run individual sections of the code
+
 Various ML libraries in python : To visualise,preprocess and build models on the dataset.  
 
 ## Supporting Screenshots
