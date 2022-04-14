@@ -4,6 +4,7 @@
 This was our project for the course : Data Analytics and Visualisation wherein we we aim to predict the outcome of H-1B visa applications that are filed by
 many high-skilled foreign nationals every year. We considered as a classification problem and applied Gaussian Naive Bayes, Logistic Regression, Decision Tree
 Model,Random Forests and Artificial Neural Networks in order to output a predicted case status of the application. The input to our algorithm is the attributes of the applicant.
+The Kaggle link to the dataset is : https://www.kaggle.com/competitions/h1b-visanew/data
 
 ## Tech Stack used
 
