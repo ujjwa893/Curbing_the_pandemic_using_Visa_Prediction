@@ -16,7 +16,8 @@ Various ML libraries in python : To visualise,preprocess and build models on the
 ![image](https://user-images.githubusercontent.com/82048242/163327680-087b7828-cad6-4b2d-85e2-8ab2509950e8.png)
 
 
-![image](https://user-images.githubusercontent.com/82048242/163327705-d02c1e9c-9753-4742-a99e-f87379dc3471.png)
+![image](https://user-images.githubusercontent.com/82048242/163329452-0a7e97ca-5829-4279-93b9-89454a13322f.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/82048242/163328269-1f5c9c0c-c5bd-457e-9726-b98e984a4d58.png)
